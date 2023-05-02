@@ -41,6 +41,10 @@ Follow me
 
 [<img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColog=white">]()
 
+<br/>
+
+![g_mi's GitHub stats](https://github-readme-stats.vercel.app/api?username=akrudal&show_icons=true&bg_color=FC9CA4&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrudal&bg_color=FC9CA4&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&card_width=500&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br/><br/>
