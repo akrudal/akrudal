@@ -71,7 +71,7 @@ Follow me
 - Web
 
 |   |Project Name            | Language    | Period  |
-|-- |-----------------------|----------|----|-----|
+|-- |-----------------------|----------|----|
 |1  |`BTS Official Page`  |  Javascript   | 2020.03 ~ 2020.06 | 
 |2  |`Endless Creation Homepage`   | Javascript | 2021.02~ |
 |3  |`Join`| Javascript
