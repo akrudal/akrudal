@@ -1,27 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=KYUNG%20MI&fontSize=50&animation=fadeIn)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=30&pause=3000&color=F7A5DC&multiline=true&width=500&height=100&lines=Hi%2C+Nice+to+meet+you!+I'm+Kyoungmi;What's+up%3F)](https://git.io/typing-svg)
 
-SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY  
-Department of Computer Science and Engineering 
-
------
-
-## 🛠Tech Stack🛠  
-
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-FFF12B?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-
------
-
-## ♥SNS♥
-
-
-<a href="https://www.instagram.com/1mmgm/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/1mmgm/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
+<br/>
 
 #  Intro
 
@@ -39,14 +18,32 @@ I want you guys to watch me a little more, someday I'll prove that I'm a great d
 Follow me
 
 
+<br/><br/>
+
+
 # About me
 
-**Tech Stack**
+**🖥️ Tech Stack**
 
-**SNS**
 
-**Blog**
+<img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/swift-orange?style=for-the-badge&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow">
 
+<br/>
+**📸 SNS**
+
+<img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=pink">
+
+<br/>
+**☕️ Blog**
+     
+
+[<img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColog=white">]()
+
+
+
+<br/><br/>
 
 
 
@@ -58,6 +55,10 @@ Follow me
 |2  |`서울과학기술대학교(서울)`   | 컴퓨터공학과 | 2019.03~ | 졸업 예정|
 
 
+
+<br/><br/>
+
+
 ## Club
 |   |Club Name      | Club | Period | Role |
 |-- |-------------------|----|-----|-----|
@@ -67,26 +68,31 @@ Follow me
 |3  |`EndlessCreation` | |2020.03~2021.12| 임원진|
 
 
+
+<br/><br/>
+
+
 ## Project
 - Web
 
 |   |Project Name           | Language    | Period  |
 |-- |-----------------------|----------|----------|
-|1  |`BTS Official Page`  |  Javascript   | 2020.03 ~ 2020.06 | 
-|2  |`Endless Creation Homepage`   | Javascript | 2021.02~ |
-|3  |`Join`| Javascript||
-|4  |`Endless Creation Homepage` | Javascript|
+|1  |[`BTS Official Page`](https://github.com/EomYoosang/BTS.github.io)  |  Javascript   | 2020.03 ~ 2020.06 | 
+|2  |[`Endless Creation Homepage`](https://github.com/EndlessCreation/ec_homepage_front)   | Javascript | 2021.02~ |
+|3  |`Join`| Javascript|Javascript|2021.03~2021.12|
+|4  |[`WeDeliver`](https://github.com/WeDeliverProject)| Javascript | 2021.09~2021.12|
 
+<br/>
 
 - iOS
 
 |   |Project Name  | Name  | Period |
 |-- |------------|----------|-------|
-|1  |`MoyeoRun`  |  swift   | 2023.03~2023.08 | 
-|2  |`Recody`   | swift | 2023.08~ |
-|3  |`Telling Me`| swift| 2024.03~ |
+|1  |[`MoyeoRun`](https://github.com/MoyeoRun)  |  swift   | 2023.03~2023.08 | 
+|2  |[`Recody`](https://github.com/recody-project)   | swift | 2023.08~ |
+|3  |[`Telling Me`](https://github.com/telling-me)| swift| 2024.03~ |
 
-
+<br/><br/>
 
 ## Awards
 - 한이음 입상
