@@ -51,7 +51,7 @@ Follow me
 
 
 
-## 🎓 Eudcation
+## 🎓 Education
 
 |   |School Name(Locate)     | Departure | Period | Status |
 |-- |-----------------------|----------|----|-----|
