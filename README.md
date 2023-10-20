@@ -91,10 +91,9 @@ Follow me
 - iOS
 
 |   |Project Name  | Name  | Period |
-|-- |------------|----------|-------|
-|1  |[`MoyeoRun`](https://github.com/MoyeoRun)  |  swift   | 2022.03~2023.08 | 
-|2  |[`Recody`](https://github.com/recody-project)   | swift | 2023.08~ |
-|3  |[`Telling Me`](https://github.com/telling-me)| swift| 2023.03~ |
+|-- |------------|----------|-------| 
+|1  |[`Recody`](https://github.com/recody-project)   | swift | 2023.08~ |
+|2  |[`Telling Me`](https://github.com/telling-me)| swift| 2023.03~ |
 
 <br/><br/>
 
