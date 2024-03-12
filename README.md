@@ -57,7 +57,7 @@ Follow me
 |-- |-----------------------|----------|----|-----|
 |1  |`군산중앙여자고등학교(전북)`  |          | 2016.03~2019.02 | 졸업 |
 |2  |`서울과학기술대학교(서울)`   | 컴퓨터공학과 | 2019.03~ | 졸업 예정|
-|3  |`멋쟁이사자처럼 Techit iOS AppSchool 2기`   | iOS | 2023.05~2023.10 | 수료 |
+|3  |`멋쟁이사자처럼 Techit iOS AppSchool 2기`   | iOS | 2023.05 ~ 2023.10 | 수료 |
 
 
 
@@ -67,12 +67,12 @@ Follow me
 ## Acitivity & Club
 |   | Name       | Period | Role | note |
 |-- |-------------------|-----|-----| -----|
-|1  |`EndlessCreation`  | 2019.03~2023.02 | 부원 | 컴퓨터동아리 |
+|1  |`EndlessCreation`  | 2019.03~2023.02 | 부원 | 컴퓨터공학과 동아리 |
 |2  |`정보통신대학 단과대학 학생회` | 2019.03~ 2019.12|국원| 학생회 |
 |3  |`정보통신대학 단과대학 학생회` | 2020.03~2020.12| 국장| 학생회 | 
-|3  |`EndlessCreation` |2020.03~2021.12| | 임원진| 
-|4  |`우아한스터디`  |2019.03~2019.02 | | 내 코드가 그렇게 이상한가요? |
-|5  |`디프만(Depromeet)` | 2019.03~ 2019.12| |IT 커뮤니티 |
+|3  |`EndlessCreation` |2020.03 ~ 2021.12| 임원진 | 컴퓨터공학과 동아리 | 
+|4  |`우아한스터디`  |2023.11 ~ 2023.12 | 팀원 | 내 코드가 그렇게 이상한가요? |
+|5  |`디프만(Depromeet)` | 2023.11 ~ 2024.02 | 팀원 | IT 커뮤니티 |
 
 <br/><br/>
 
@@ -83,20 +83,19 @@ Follow me
 |   |Project Name           | Language    | Period  |
 |-- |-----------------------|----------|----------|
 |1  |[`BTS Official Page`](https://github.com/EomYoosang/BTS.github.io)  |  Javascript   | 2020.03 ~ 2020.06 | 
-|2  |[`Endless Creation Homepage`](https://github.com/EndlessCreation/ec_homepage_front)   | Javascript | 2021.02~ |
-|3  |`Join`| Javascript|Javascript|2021.03~2021.12|
-|4  |[`WeDeliver`](https://github.com/WeDeliverProject)| Javascript | 2021.09~2021.12|
+|2  |[`Endless Creation Homepage`](https://github.com/EndlessCreation/ec_homepage_front)   | Javascript | 2021.12 ~ 2022.02|
+|3  |`Join`|Javascript|2021.03 ~ 2021.12|
+|4  |[`WeDeliver`](https://github.com/WeDeliverProject)| Javascript | 2021.09 ~ 2021.12|
 
 <br/>
 
 - iOS
 
-|   |Project Name  | Name  | Period |
+|   |Project Name  | Framework  | Period |
 |-- |------------|----------|-------| 
-|1  |[`Recody`](https://github.com/recody-project)   | swift | 2023.08~ |
-|2  |[`Telling Me`](https://github.com/telling-me)| swift| 2023.03~ |
+|1  |[`Recody`](https://github.com/recody-project)   | UIKit | 2022.08~ 2023.08 ||
+|2  |[`Telling Me`](https://github.com/telling-me)| UIKit | 2023.03 ~ |
+|3  |[`Bibbi`](https://github.com/depromeet/14th-team5-iOS)| UIKit | 2023.11 ~ |
 
 <br/><br/>
 
-## Awards
-- 한이음 입상
