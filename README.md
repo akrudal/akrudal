@@ -17,6 +17,10 @@ I want you guys to watch me a little more, someday I'll prove that I'm a great d
 
 Follow me
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{bibbi}?pet-id=1" width="1000" height="120"/>
+</a>
+
 
 <br/><br/>
 
